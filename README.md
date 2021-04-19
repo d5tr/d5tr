@@ -7,9 +7,6 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=d5tr&show_icons=true&theme=vision-friendly-dark)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=d5tr&theme=vision-friendly-dark)](https://github.com/d5tr/github-readme-stats)
-
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=d5tr&theme=vision-friendly-dark)](https://github.com/d5tr/github-readme-stats)
 
 
