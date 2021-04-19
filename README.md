@@ -7,8 +7,8 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=d5tr&show_icons=true&theme=vision-friendly-dark)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=d5tr)](https://github.com/d5tr/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=d5tr&hide=contribs,prs)
 
 
 
