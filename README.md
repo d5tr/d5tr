@@ -2,8 +2,8 @@
 
 * hello i am d5tr 
 * i am programer python3 
-* [follow me in instagram :](https://instagram.com/d_5tr)
-* [follow me in telegram :](https://t.me/d5tr_Cyber)
+* [follow me in instagram](https://instagram.com/d_5tr)
+* [follow me in telegram](https://t.me/d5tr_Cyber)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=d5tr)](https://github.com/d5tr/github-readme-stats)
 
