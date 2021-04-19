@@ -1,5 +1,5 @@
-### Nickname : D5tr
- 
+### I am D5tr
+* My Nickname: D5tr
 * I am programer python3
 * I am Make Tools For H4ckers And Penetration Testers   
 * [follow me in instagram](https://instagram.com/d_5tr)
