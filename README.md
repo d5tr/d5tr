@@ -6,7 +6,7 @@
 * [follow me in telegram](https://t.me/d5tr_Cyber)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=d5tr&show_icons=true&theme=vision-friendly-dark)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=d5tr&repo=github-readme-stats)](https://github.com/d5tr/github-readme-stats)
+
 
 
 
